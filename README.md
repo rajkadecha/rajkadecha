@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rajkadecha
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning NodeJS, GraphQL
-- 💞️ I’m looking to collaborate on open source project with NodeJS.
-- 📫 I'm available at LinkedIn/Instagram
+- 👀 I love JavaScript
+- 🌱 I’m currently working with NodeJS, GraphQL, ReactJS
+- 📫 I'm available at https://in.linkedin.com/in/rajkadecha or raj.kadecha1994@gmail.com
+
+Worked with third-party APIs like DocuSign, Sendgrid as per project requirement. Open to learn new technologies as project demands.
 
 <!---
 rajkadecha/rajkadecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
